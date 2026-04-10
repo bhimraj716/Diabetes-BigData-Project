@@ -38,5 +38,5 @@ WHERE diabetes = 1
 """)
 result2.show()
 
-# Stop Spark (ALWAYS LAST)
+# Stop Spark 
 spark.stop()
