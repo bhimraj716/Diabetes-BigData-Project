@@ -1,6 +1,6 @@
 # Diabetes Big Data Project
 
-## 📊 Project Overview
+##  Project Overview
 
 This project analyzes a real-world healthcare dataset (Diabetes) using Big Data tools.
 
@@ -14,7 +14,7 @@ The project demonstrates how to:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python
 * MongoDB
@@ -25,7 +25,7 @@ The project demonstrates how to:
 
 ---
 
-## 📁 Project Files
+##  Project Files
 
 * `insert_data.py` → Insert dataset into MongoDB
 * `mongodb_queries.py` → MongoDB queries and aggregation
@@ -35,7 +35,7 @@ The project demonstrates how to:
 
 ---
 
-## ⚙️ How to Run the Project
+##  How to Run the Project
 
 ### Step 1: Start MongoDB
 
@@ -79,7 +79,7 @@ python3 visualization.py
 
 ---
 
-## 📈 Output
+##  Output
 
 * Data inserted into MongoDB
 * Query results (counts, averages)
@@ -89,12 +89,12 @@ python3 visualization.py
 
 ---
 
-## 📌 Dataset
+##  Dataset
 
 Diabetes dataset in CSV format used for healthcare analysis.
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 
 This project demonstrates the integration of MongoDB and Apache Spark for efficient big data processing and analysis.
