@@ -33,7 +33,7 @@ result3 = list(collection.aggregate(pipeline3))
 print("Average glucose:", result3)
 
 # ===============================
-# Performance Comparison (ADD THIS)
+# Performance Comparison 
 # ===============================
 start = time.time()
 list(collection.aggregate([
