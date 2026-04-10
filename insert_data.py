@@ -26,7 +26,7 @@ df.groupBy("diabetes").count().show()
 df.groupBy("gender").count().show()
 
 # ===============================
-# Performance Comparison (IMPORTANT)
+# Performance Comparison 
 # ===============================
 print("=== Spark Performance ===")
 start = time.time()
